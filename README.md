@@ -1,5 +1,7 @@
 # yuv10-to-tiff
 
+[![PayPalで開発を支援する](https://img.shields.io/badge/PayPal-Donate-0070BA?logo=paypal&logoColor=white&style=for-the-badge)](https://paypal.me/okako1124)
+
 ITE/ARIBの仕様を題材にした、10bit YCbCr 4:2:2 RAWを8bit RGBの非圧縮TIFFへ変換する最小サンプルです。
 
 これは過去に使用していた`ConvertYUV10.exe`や`YUV10toTIFF.dll`のソースコードではありません。記事の説明と再現テストのために、新規に書き起こした公開用コードです。実データ、元バイナリ、製品固有の仕様は含みません。
